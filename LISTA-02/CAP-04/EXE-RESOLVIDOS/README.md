@@ -12,7 +12,7 @@ Faça um programa que receba as três notas, calcule e mostre a média ponderada
 a tabela:
 
 |  MÉDIA PONDERADA  |      | CONCEITO |
-|--------------------------|----------|
+|-------------------|------|----------|
 |8,0 |●──────────── |10,0  |     A    |
 |7,0 |●──────────── |8,0   |     B    |
 |6,0 |●──────────── |7,0   |     C    |
