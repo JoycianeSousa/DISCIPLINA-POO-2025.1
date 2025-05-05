@@ -4,6 +4,7 @@ lho de laboratório, a uma avaliação semestral e a um exame final. A média da
 obedece aos pesos a seguir:
 
 |        NOTA            |   PESO  |
+|------------------------|---------|
 |trabalho de laboratorio |    2    |
 |avaliação semestral     |    3    |
 |exame final             |    5    |
