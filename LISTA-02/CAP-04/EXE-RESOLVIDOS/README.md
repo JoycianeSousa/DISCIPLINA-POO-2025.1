@@ -1,4 +1,6 @@
-*[Q01](Q01)-A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-
+#QUESTÕES RESOLVIDAS 
+
+[Q01](Q01)-A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-
 lho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas
 
 obedece aos pesos a seguir:
