@@ -11,7 +11,7 @@
 Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue
 a tabela:
 
-|    MÉDIA PONDERADA       | CONCEITO |
+|  MÉDIA PONDERADA  |      | CONCEITO |
 |--------------------------|----------|
 |8,0 |●──────────── |10,0  |     A    |
 |7,0 |●──────────── |8,0   |     B    |
