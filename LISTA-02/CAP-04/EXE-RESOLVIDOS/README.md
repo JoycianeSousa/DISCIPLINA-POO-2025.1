@@ -19,25 +19,16 @@ a tabela:
 |5,0  ●────────     |   6,0     |     D    |
 |0,0  ●───────      |   5,0     |     E    |
 
-**Solução:**
-ALGORITMO
-DECLARE nota_trab, aval_sem, exame, media NUMÉRICO
-ESCREVA “Digite a nota do trabalho de laboratório: “
-LEIA nota_trab
-ESCREVA “Digite a nota da avaliação semestral: “
-LEIA aval_sem
-ESCREVA “Digite a nota do exame final: “
-LEIA exame
-media ← (nota_trab * 2 + aval_sem * 3 + exame * 5) / 10
-ESCREVA “Média ponderada: “ , media
-SE media >= 8 E media <= 10
-ENTÃO ESCREVA “Obteve conceito A”
-SE media >= 7 E media < 8
-ENTÃO ESCREVA “Obteve conceito B”
-SE media >= 6 E media < 7
-ENTÃO ESCREVA “Obteve conceito C”
-SE media >= 5 E media < 6
-ENTÃO ESCREVA “Obteve conceito D”
-SE media >= 0 E media < 5
-ENTÃO ESCREVA “Obteve conceito E”
-FIM_ALGORITMO.
+*[Q02](Q02)-Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem
+constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão
+tirar para serem aprovados, considerando que a média exigida é 6,0.
+
+|  MÉDIA PONDERADA  |           |    MENSAGEM   |
+|-------------------|-----------|---------------|
+|0,0  ●──────────── |   3,0     |    Reprovado  |
+|3,0  ●───────────  |   7,0     |    Exame      |
+|7,0  ●──────────   |   10,0    |    Aprovado   |
+
+*[Q03](Q03)-Faça um programa que receba dois números e mostre o maior.
+
+*[Q03](Q03)
