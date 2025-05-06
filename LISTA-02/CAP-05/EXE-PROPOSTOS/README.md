@@ -60,7 +60,7 @@ Digite um número: 5
 ■ o valor da primeira prestação das compras a prazo juntas, sabendo-se que serão pagas em três vezes.
 
 - [Q07](Q07)-Faça um programa que receba a idade, a altura e o peso de cinco pessoas, calcule e mostre:
-- 
+ 
 ■ a quantidade de pessoas com idade superior a 50 anos;
 
 ■ a média das alturas das pessoas com idade entre 10 e 20 anos;
