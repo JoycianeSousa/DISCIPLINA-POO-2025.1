@@ -54,8 +54,8 @@ encontra-se na tabela a seguir.
 |       SALDO MÉDIO          |     PERCENTUAL      |
 |----------------------------|---------------------|
 |Acima de R$ 400,00          | 30% do saldo médio  |
-|R$ 400,00 ●───────°R$ 300,00| 25% do saldo médio  |
-|R$ 300,00●──────── R$ 200,00| 20% do saldo médio  |
+|R$ 400,00 ●─────── R$ 300,00| 25% do saldo médio  |
+|R$ 300,00 ●─────── R$ 200,00| 20% do saldo médio  |
 |Até R$ 200,00               | 10% do saldo médio  |
 
 - [Q10](Q10)-O preço ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos, ambos aplicados ao custo de fábrica. As porcentagens encontram-se na tabela a seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o preço ao consumidor.
