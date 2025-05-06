@@ -3,7 +3,7 @@
 ## Inuciado das questões:
 
 - [QO1](Q01)-Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:
-- 
+  
 a) Esse funcionário foi contratado em 2005, com salário inicial de R$ 1.000,00.
 
 b) Em 2006, ele recebeu aumento de 1,5% sobre seu salário inicial.
@@ -41,9 +41,8 @@ c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 ve�
 - [QO5](Q05)-Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor
 da série a seguir:
 
-S = -X2 +X3 –X4 +X5 -X6 +X7 -X8 +X9 -X10 +X11 -...
+S = -X2/1! +X3/2!–X4/3! +X5/4! -X6/3! +X7/2! -X8/1! +X9/2!-X10/3! +X11/4! -...
 
-      1!  2!  3! 4!  3!  2!  1!  2!   3!   4!
 
 - [QO6](Q06)-Uma empresa possui dez funcionários com as seguintes características: código, número de horas traba-
 lhadas no mês, turno de trabalho (M — matutino; V — vespertino; ou N — noturno), categoria (O — operário; ou G — gerente), valor da hora trabalhada. Sabendo-se que essa empresa deseja informatizar sua folha de pagamento, faça um programa que:
@@ -87,9 +86,9 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 
 - [QO9](Q09)-Faça um programa que receba duas notas de seis alunos. Calcule e mostre:
   
-■■ a média aritmética das duas notas de cada aluno; e
+ ■ a média aritmética das duas notas de cada aluno; e
 
-■■ a mensagem que está na tabela a seguir:
+ ■ a mensagem que está na tabela a seguir:
 
 |média aritmética| mensagem  |
 |----------------|-----------|
@@ -97,22 +96,22 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 |Entre 3 e 7     |Exame      |
 |De 7 para cima  | Aprovado  |
 
-■■ o total de alunos aprovados;
+■ o total de alunos aprovados;
 
-■■ o total de alunos de exame;
+■ o total de alunos de exame;
 
-■■ o total de alunos reprovados;
+■ o total de alunos reprovados;
 
-■■ a média da classe.
+■ a média da classe.
 
 - [Q10](Q10)-Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um progra-
 ma que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre:
 
-■■ a quantidade de jogadores com idade inferior a 18 anos;
+■ a quantidade de jogadores com idade inferior a 18 anos;
 
-■■ a média das idades dos jogadores de cada time;
+■ a média das idades dos jogadores de cada time;
 
-■■ a média das alturas de todos os jogadores do campeonato; e
+■ a média das alturas de todos os jogadores do campeonato; e
 
-■■ a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
+■ a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
   
