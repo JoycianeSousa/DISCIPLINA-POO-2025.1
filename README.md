@@ -1,5 +1,19 @@
-# DISCIPLINA-POO-2025.1
+# Atividades de Programação Orientada a Objetos (POO) em Java
 
-##O QUE VC VAI ENCONTRAR AO ENTRAR?
+Este repositório reúne as soluções das seis listas de exercícios de Programação Orientada a Objetos (POO), elaboradas ao longo da disciplina ministrada pelo professor Roger Moura Sarmento no IFCE – Campus Maranguape.
 
-Ao clicar em [LISTA-01](#LISTA-01) você terá acesso a dois repositorios, na qual lá estaram divididos em duas partes [EXE-RESOLVIDOS](#EXE-RESOLVIDOS) e [EXE-PROPOSTOS](#EXE-PROPOSTOS).Apartir dai vc terá acesso as questões da LISTA 01.
+### 📘 Sobre o Repositório
+
+O principal intuito deste projeto é oferecer um espaço organizado para praticar os fundamentos da Programação Orientada a Objetos com a linguagem Java, através da resolução de problemas lógicos e matemáticos. Você encontrará aqui tanto os exercícios já resolvidos quanto desafios propostos para você desenvolver por conta própria.
+
+### Conteúdo Abordado
+* Capítulo 03 – Comandos Sequenciais
+* Capítulo 04 – Estruturas Condicionais
+* Capítulo 05 – Estruturas de Repetição
+* Capítulo 06 – Trabalhando com Vetores
+* Capítulo 08 – Sub-rotinas (Métodos)
+
+### 📌 Estrutura dos Exercícios
+
+* ✅ **Exercícios Resolvidos** – Códigos prontos para análise e aprendizado.
+* ✏️ **Exercícios Propostos** – Apenas os enunciados, ideais para treino individual.
