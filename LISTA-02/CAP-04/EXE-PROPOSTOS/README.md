@@ -50,7 +50,8 @@ encontra-se na tabela a seguir.
 |Até R$ 300,00     |         35%            |
 |Acima de R$ 300,00|         15%            |
 
-- [Q09](Q09)-9. Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela a seguir. Mostre o saldo médio e o valor do crédito.Acima de R$ 400,00 30% do saldo médio  
+- [Q09](Q09)-9. Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela a seguir. Mostre o saldo médio e o valor do crédito.Acima de R$ 400,00 30% do saldo médio
+  
 |       SALDO MÉDIO |           |     PERCENTUAL      |
 |-------------------|-----------|---------------------|
 |Acima de R$ 400,00 |           | 30% do saldo médio  |
