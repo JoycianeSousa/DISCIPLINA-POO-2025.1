@@ -8,6 +8,12 @@ mensagem de aprovado ou reprovado, considerando para aprovação média 7.
 - [Q02](Q02)-Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra
 na tabela a seguir:
 
+|  MÉDIA PONDERADA  |           |    MENSAGEM   |
+|-------------------|-----------|---------------|
+|0,0  ●──────────── |   3,0     |    Reprovado  |
+|3,0  ●───────────  |   7,0     |    Exame      |
+|7,0  ●──────────   |   10,0    |    Aprovado   |
+
 - [Q03](Q03)-Faça um programa que receba dois números e mostre o menor.
   
 - [Q04](Q04)-Faça um programa que receba três números e mostre o maior.
@@ -45,12 +51,12 @@ encontra-se na tabela a seguir.
 |Acima de R$ 300,00|         15%            |
 
 - [Q09](Q09)-9. Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela a seguir. Mostre o saldo médio e o valor do crédito.Acima de R$ 400,00 30% do saldo médio  
-|   SALDO MÉDIO     |     PERCENTUAL      |
-|-------------------|---------------------|
-|Acima de R$ 400,00 | 30% do saldo médio  |
-|R$ 400,00 R$ 300,00| 25% do saldo médio  |
-|R$ 300,00 R$ 200,00| 20% do saldo médio  |
-|Até R$ 200,00      | 10% do saldo médio  |
+|       SALDO MÉDIO          |     PERCENTUAL      |
+|----------------------------|---------------------|
+|Acima de R$ 400,00          | 30% do saldo médio  |
+|R$ 400,00 ●───────°R$ 300,00| 25% do saldo médio  |
+|R$ 300,00●──────── R$ 200,00| 20% do saldo médio  |
+|Até R$ 200,00               | 10% do saldo médio  |
 
 - [Q10](Q10)-O preço ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos, ambos aplicados ao custo de fábrica. As porcentagens encontram-se na tabela a seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o preço ao consumidor.
 
