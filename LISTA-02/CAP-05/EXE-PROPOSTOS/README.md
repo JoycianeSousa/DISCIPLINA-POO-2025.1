@@ -49,35 +49,43 @@ Digite um número: 5
   
 - [Q05](Q05)-Faça um programa que mostre as tabuadas dos números de 1 a 10.
   
-- [Q06](Q06)-Uma loja utiliza o código V para transação à vista e P para transação a prazo. Faça um programa que receba
-o código e o valor de quinze transações, calcule e mostre:
-■■ o valor total das compras à vista;
-■■ o valor total das compras a prazo;
-■■ o valor total das compras efetuadas; e
-■■ o valor da primeira prestação das compras a prazo juntas, sabendo-se que serão pagas em três vezes.
+- [Q06](Q06)-Uma loja utiliza o código V para transação à vista e P para transação a prazo. Faça um programa que recebao código e o valor de quinze transações, calcule e mostre:
+
+■ o valor total das compras à vista;
+
+■ o valor total das compras a prazo;
+
+■ o valor total das compras efetuadas; e
+
+■ o valor da primeira prestação das compras a prazo juntas, sabendo-se que serão pagas em três vezes.
 
 - [Q07](Q07)-Faça um programa que receba a idade, a altura e o peso de cinco pessoas, calcule e mostre:
-■■ a quantidade de pessoas com idade superior a 50 anos;
-■■ a média das alturas das pessoas com idade entre 10 e 20 anos;
-■■ a porcentagem de pessoas com peso inferior a 40 kg entre todas as pessoas analisadas.
+- 
+■ a quantidade de pessoas com idade superior a 50 anos;
+
+■ a média das alturas das pessoas com idade entre 10 e 20 anos;
+
+■ a porcentagem de pessoas com peso inferior a 40 kg entre todas as pessoas analisadas.
 
 - [Q08](Q08)-Faça um programa que receba a idade, o peso, a altura, a cor dos olhos (A — azul; P — preto; V — verde; e
 C — castanho) e a cor dos cabelos (P — preto; C — castanho; L — louro; e R — ruivo) de seis pessoas, e que
 calcule e mostre:
-■■ a quantidade de pessoas com idade superior a 50 anos e peso inferior a 60 kg;
 
-■■ a média das idades das pessoas com altura inferior a 1,50 m;
+■ a quantidade de pessoas com idade superior a 50 anos e peso inferior a 60 kg;
 
-■■ a porcentagem de pessoas com olhos azuis entre todas as pessoas analisadas; e
+■ a média das idades das pessoas com altura inferior a 1,50 m;
 
-■■ a quantidade de pessoas ruivas e que não possuem olhos azuis.
+■ a porcentagem de pessoas com olhos azuis entre todas as pessoas analisadas; e
+
+■ a quantidade de pessoas ruivas e que não possuem olhos azuis.
 
 - [Q09](Q09)-Faça um programa que receba dez idades, pesos e alturas, calcule e mostre:
-■■ a média das idades das dez pessoas;
+  
+■ a média das idades das dez pessoas;
 
-■■ a quantidade de pessoas com peso superior a 90 kg e altura inferior a 1,50 metro; e
+■ a quantidade de pessoas com peso superior a 90 kg e altura inferior a 1,50 metro; e
 
-■■ a porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de
+■ a porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de
 1,90 m.
 
 - [Q10](Q10)-Faça um programa que receba dez números, calcule e mostre a soma dos números pares e a soma dos
