@@ -13,7 +13,3 @@ O principal intuito deste projeto é oferecer um espaço organizado para pratica
 * Capítulo 06 – Trabalhando com Vetores
 * Capítulo 08 – Sub-rotinas (Métodos)
 
-### 📌 Estrutura dos Exercícios
-
-* ✅ **Exercícios Resolvidos** – Códigos prontos para análise e aprendizado.
-* ✏️ **Exercícios Propostos** – Apenas os enunciados, ideais para treino individual.
